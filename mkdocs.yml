@@ -13,7 +13,12 @@ markdown_extensions:
     smart_quotes: False
 - pymdownx.tasklist
 
-site_dir: "/Applications/MAMP/htdocs/nevernote"
+repo_url: https://github.com/kantel/cocos2d
+
+edit_uri: blob/master/docs
+
+site_dir: "/Applications/MAMP/htdocs/cocos2d"
+
 
 extra_css: [css/user.css]
 
