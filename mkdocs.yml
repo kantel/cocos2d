@@ -1,0 +1,20 @@
+site_name: Learning Cocos2d
+theme: readthedocs
+
+pages:
+- Home: "index.md"
+- Hello World!: "helloworld.md"
+
+markdown_extensions:
+- footnotes
+- admonition
+
+- smarty:
+    smart_quotes: False
+- pymdownx.tasklist
+
+site_dir: "/Applications/MAMP/htdocs/nevernote"
+
+extra_css: [css/user.css]
+
+extra_javascript: ["http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"]
