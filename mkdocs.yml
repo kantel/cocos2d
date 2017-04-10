@@ -4,6 +4,7 @@ theme: readthedocs
 pages:
 - Home: "index.md"
 - Hello World!: "helloworld.md"
+- Hallo Hörnchen: "hellohoernchen.md"
 
 markdown_extensions:
 - footnotes
