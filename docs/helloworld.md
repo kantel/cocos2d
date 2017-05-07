@@ -53,3 +53,4 @@ Diese Struktur ist in allen Cocos2d-Dialekten gegeben, das heißt, wenn man mit 
 
 
 [amazon]: https://www.amazon.de/Python-Programming-Example-Alejandro-Rodas/dp/1785281534/ref=as_li_ss_tl?ie=UTF8&qid=1490954050&sr=8-1&keywords=Python+Game+Programming+by+Example&linkCode=ll1&tag=derschockwell-21&linkId=f2debaceb82b32d7515b222ebccda3f6
+[amazon2]: https://www.amazon.de/Learning-Cocos2d-JS-Development-Emanuele-Feronato/dp/1784390070/ref=as_li_ss_tl?&linkCode=ll1&tag=derschockwell-21&linkId=0eb74ddfdcffe3577b674f19a51e5a30
