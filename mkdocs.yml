@@ -5,6 +5,7 @@ pages:
 - Home: "index.md"
 - Hello World!: "helloworld.md"
 - Hallo Hörnchen: "hellohoernchen.md"
+- First Game: "firstgame.md"
 
 markdown_extensions:
 - footnotes

@@ -15,7 +15,7 @@ class Actor(Sprite):
     def __init__(self, x, y, pic):
         super(Actor, self).__init__(pic)
         self.position = pos = eu.Vector2(x, y)
-        self.cshape = cm.CircleShape(pos, self.width/2)
+        self.cshape = cm.CircleShape(pos, self.width/2 - 10)
 
 class Game(ColorLayer):
     
